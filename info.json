@@ -1,0 +1,16 @@
+{
+    "name": "no-more-quality",
+    "version": "0.0.1",
+    "title": "No More Quality",
+    "author": "0n0w1c",
+    "contact": "",
+    "homepage": "https://mods.factorio.com/mod/no-more-quality",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base",
+        "(?) space-age",
+        "(?) quality",
+        "(?) no-quality"
+    ],
+    "description": "Effectively removes the quality mechanic from the game."
+}
