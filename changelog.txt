@@ -1,4 +1,18 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 22.12.2024
+  Bugfixes:
+    - Refactored to use proper nil checks
+  Changes:
+    - The Module technology displays the icon without the quality module
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 22.12.2024
+  Bugfixes:
+    - Use hidden rather than nil for entities, items, recipes and technologies
+  Changes:
+    - Removed the virtual signal "signal-any-quality"
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 17.12.2024
   Bugfixes:

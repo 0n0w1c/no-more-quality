@@ -1,6 +1,6 @@
 {
     "name": "no-more-quality",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "title": "No More Quality",
     "author": "0n0w1c",
     "contact": "",
@@ -12,5 +12,5 @@
         "(?) quality",
         "(?) no-quality"
     ],
-    "description": "Effectively removes the quality mechanic from the game."
+    "description": "Effectively hides the quality mechanic."
 }
