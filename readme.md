@@ -1,9 +1,9 @@
 # No More Quality
 
-Enjoy Space Age without Quality!
+Enjoy Space Age without Quality!  
 
-For best results, if adding to an existing save, it should be added before researching Quality.
-Can be removed at any time to restore the Quality mechanic to the game.
+If adding to an existing save, it should be done before researching Quality.  
+Can be removed at any time to restore the Quality mechanic to the game.  
 
 #### Hides:
 
@@ -20,5 +20,7 @@ Can be removed at any time to restore the Quality mechanic to the game.
 
 &NewLine;
 &NewLine;
+
+If you have researched Quality, consider the [Unquality](https://mods.factorio.com/mod/unquality) mod.  
 
 (Fork of No Quality v0.1.3 by grandseiken)
