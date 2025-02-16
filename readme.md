@@ -21,6 +21,6 @@ Can be removed at any time to restore the Quality mechanic to the game.
 &NewLine;
 &NewLine;
 
-If you have researched Quality, consider the [Unquality](https://mods.factorio.com/mod/unquality) mod.  
+If you have researched Quality, consider the [Anti-Quality Module](https://mods.factorio.com/mod/anti-quality-module) mod.  
 
 (Fork of No Quality v0.1.3 by grandseiken)
