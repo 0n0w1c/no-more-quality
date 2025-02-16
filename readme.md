@@ -19,7 +19,6 @@ Can be removed at any time to restore the Quality mechanic to the game.
 * Recycling recipes
 
 &NewLine;
-&NewLine;
 
 If you have researched Quality, consider the [Anti-Quality Module](https://mods.factorio.com/mod/anti-quality-module) mod.  
 
