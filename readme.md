@@ -3,9 +3,8 @@
 Enjoy Space Age without Quality!  
 
 If adding to an existing save, it should be done before researching Quality.  
-Can be removed at any time to restore the Quality mechanic to the game.  
 
-#### Hides:
+#### Hides or removes:
 
 * Quality modules
 * Quality tiers other than "normal"

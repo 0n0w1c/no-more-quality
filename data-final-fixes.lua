@@ -19,18 +19,18 @@ if data.raw.module["quality-module"] then data.raw.module["quality-module"].hidd
 if data.raw.module["quality-module-2"] then data.raw.module["quality-module-2"].hidden = true end
 if data.raw.module["quality-module-3"] then data.raw.module["quality-module-3"].hidden = true end
 
-if data.raw.recipe["quality-module"] then data.raw.recipe["quality-module"].hidden = true end
-if data.raw.recipe["quality-module-2"] then data.raw.recipe["quality-module-2"].hidden = true end
-if data.raw.recipe["quality-module-3"] then data.raw.recipe["quality-module-3"].hidden = true end
-if data.raw.recipe["quality-module-recycling"] then data.raw.recipe["quality-module-recycling"].hidden = true end
-if data.raw.recipe["quality-module-2-recycling"] then data.raw.recipe["quality-module-2-recycling"].hidden = true end
-if data.raw.recipe["quality-module-3-recycling"] then data.raw.recipe["quality-module-3-recycling"].hidden = true end
+if data.raw.recipe["quality-module"] then data.raw.recipe["quality-module"] = nil end
+if data.raw.recipe["quality-module-2"] then data.raw.recipe["quality-module-2"] = nil end
+if data.raw.recipe["quality-module-3"] then data.raw.recipe["quality-module-3"] = nil end
+if data.raw.recipe["quality-module-recycling"] then data.raw.recipe["quality-module-recycling"] = nil end
+if data.raw.recipe["quality-module-2-recycling"] then data.raw.recipe["quality-module-2-recycling"] = nil end
+if data.raw.recipe["quality-module-3-recycling"] then data.raw.recipe["quality-module-3-recycling"] = nil end
 
-if data.raw.technology["quality-module"] then data.raw.technology["quality-module"].hidden = true end
-if data.raw.technology["quality-module-2"] then data.raw.technology["quality-module-2"].hidden = true end
-if data.raw.technology["quality-module-3"] then data.raw.technology["quality-module-3"].hidden = true end
-if data.raw.technology["epic-quality"] then data.raw.technology["epic-quality"].hidden = true end
-if data.raw.technology["legendary-quality"] then data.raw.technology["legendary-quality"].hidden = true end
+if data.raw.technology["quality-module"] then data.raw.technology["quality-module"] = nil end
+if data.raw.technology["quality-module-2"] then data.raw.technology["quality-module-2"] = nil end
+if data.raw.technology["quality-module-3"] then data.raw.technology["quality-module-3"] = nil end
+if data.raw.technology["epic-quality"] then data.raw.technology["epic-quality"] = nil end
+if data.raw.technology["legendary-quality"] then data.raw.technology["legendary-quality"] = nil end
 
 if data.raw.technology["modules"] then data.raw.technology["modules"].icon = "__base__/graphics/technology/module.png" end
 
@@ -44,7 +44,9 @@ if data.raw["produce-achievement"]["my-modules-are-legendary"] then data.raw["pr
 
 if data.raw["virtual-signal"]["signal-any-quality"] then data.raw["virtual-signal"]["signal-any-quality"] = nil end
 
-if data.raw.sprite["quality_info"] then data.raw.sprite["quality_info"].filename = "__no-more-quality__/graphics/icons/faux-quality-info-blue.png" end
+if data.raw.sprite["quality_info"] then
+    data.raw.sprite["quality_info"].filename = "__no-more-quality__/graphics/icons/faux-quality-info-blue.png"
+end
 
 if mods["space-age"] then
     if data.raw["equip-armor-achievement"]["look-at-my-shiny-rare-armor"] then data.raw["equip-armor-achievement"]["look-at-my-shiny-rare-armor"] = nil end
