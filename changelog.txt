@@ -5,7 +5,7 @@ Date: 25.05.2025
     - Resolved load error with Crushing Industry
   Changes:
     - Crushing Industry: startup option Space crusher requires quality
-      This mod will no nothing if the startup option is enabled
+      This mod will do nothing if the startup option is enabled
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.4
 Date: 21.04.2025
