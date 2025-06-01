@@ -21,4 +21,7 @@ If adding to an existing save, it should be done before researching Quality.
 
 If you have researched Quality, consider the [Anti-Quality Module](https://mods.factorio.com/mod/anti-quality-module) mod.  
 
+#### Alternate locales:  
+`cs`, `de`, `es`, `fr`, `it`, `ja`, `pl`, `pt-BR`, `ru`, `tr`, `uk`, `zh-CN`, `zh-TW`
+
 (Fork of No Quality v0.1.3 by grandseiken)
