@@ -14,11 +14,9 @@ If adding to an existing save, it should be done before researching Quality.
 
 #### Preserves:
 
-* Recycler
-* Recycling recipes
+* Recycler and the recipes
 
-&NewLine;
-
+---
 If you have researched Quality, consider the [Anti-Quality Module](https://mods.factorio.com/mod/anti-quality-module) mod.  
 
 #### Alternate locales:  
