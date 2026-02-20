@@ -1,5 +1,11 @@
 if not mods["quality"] then return end
-if mods["crushing-industry"] and settings.startup["crushing-industry-space-crusher"].value == true then return end
+
+if mods["crushing-industry"]
+    and settings.startup["crushing-industry-space-crusher-quality"]
+    and settings.startup["crushing-industry-space-crusher-quality"].value == true
+then
+    return
+end
 
 for key, value in pairs(data.raw.quality) do
     if key == "normal" or key == "quality-unknown" then

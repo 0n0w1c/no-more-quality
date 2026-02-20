@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.8
+Date: 20.02.2026
+  Bugfixes:
+    - Crushing Industry: Exit only if space crusher quality startup setting is enabled
+  Changes:
+    - None
+---------------------------------------------------------------------------------------------------
 Version: 0.0.7
 Date: 01.06.2025
   Bugfixes:
